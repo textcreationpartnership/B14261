@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Looke on me London I am an honest English-man, ripping vp the bowels of mischiefe, luring in thy sub-vrbs and precincts. Take heed the hangmans halter, and the beadles whip, will make the foole dance, and the knaue to skip.</title>
+            <author>Johnson, Richard, 1573-1659?</author>
+         </titleStmt>
+         <extent>Approx. 31KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14261</idno><idno type="EEBO-CITATION">99854539</idno>
+  <idno type="VID">177018</idno>
+  <idno type="EEBO-PROQUEST">2240938167</idno>
+  <idno type="STC">STC 14676</idno>
+  <idno type="STC">ESTC S119332</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99854539e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14261)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177018)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 754:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Looke on me London I am an honest English-man, ripping vp the bowels of mischiefe, luring in thy sub-vrbs and precincts. Take heed the hangmans halter, and the beadles whip, will make the foole dance, and the knaue to skip.</title>
+                  <author>Johnson, Richard, 1573-1659?</author>
+               </titleStmt>
+               <extent>[22] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by N. O[kes] for Thomas Archer, and are to bee sold at his shop in Popes-head Palace neere the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1613.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: R.I.</note>
+                  <note>Author's name and printer's name from STC.</note>
+                  <note>Signatures: A-B⁴ C³.</note>
+                  <note>Imperfect; much staining and print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Rogues and vagabonds --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177018:1"/>
+            <pb facs="tcp:177018:1"/>
+            <p>Looke on me London: I am an Honest English-man, rip<g ref="char:EOLhyphen"/>ping vp the Bowels of Mischiefe, <hi>lurking in thy Sub-vrbs and Precincts.</hi>
+            </p>
+            <lg>
+               <head>TAKE HEED</head>
+               <l>The Hangmans Halter, and the Beadles Whip,</l>
+               <l>Will make the Foole dance, and the Knaue to skip.</l>
+            </lg>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>N. O.</hi> for <hi>Thomas Archer,</hi> and are to bee sold at his shop in Popes-head Palace neere the Royall Exchange. 1613.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177018:2"/>
+            <pb facs="tcp:177018:2"/>
+            <head>TO THE RIGHT HONORABLE, SIR THO<g ref="char:EOLhyphen"/>MAS MIDDLETON, KNIGHT, Lord Maior of the most famous <hi>Citty of London.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">R</seg>IGHT HONORABLE,</hi> as to the fairest Ornament of this glorious Citty, doe I most humbly dedicate this my small discouery of abuses; wherein is declared some of the hidden euils harboured in the bo<g ref="char:EOLhyphen"/>wels of <hi>London,</hi> for the which I know your Honour is as ready to finde reformation, as you are willing to heare them re<g ref="char:EOLhyphen"/>ported: for in the first yeare of the <hi>Kings Maiesties</hi> Reigne (your <hi>Lordship</hi> being then Shriefe of this Cit<g ref="char:EOLhyphen"/>ty) you made your Visitations in the <hi>Sub-vrbs,</hi> and out<g ref="char:EOLhyphen"/>places of the Precincts of <hi>London,</hi> to enquire after euil liuers, and by Iustice stroue to root out iniquity, which good beginning will eternize your glory, and establish prosperity in this worthy Citty.</p>
+            <p>And no dnubt but your <hi>Honours</hi> fore-passed care, in comforting the good, and bridling the wicked, hath im<g ref="char:EOLhyphen"/>pressed an inward loue in the hearts of the Commons,
+<pb facs="tcp:177018:3"/>and bred an assurance in your happy proceeding, for it concerneth the prosperity of all our children and kins<g ref="char:EOLhyphen"/>folkes, and a benefite to the whole estate of the youth of this Citty.</p>
+            <p>I (onely) of zeale in these few sheets of paper, haue discouered vnsufferable faults, but not spoke of the faul<g ref="char:EOLhyphen"/>ty men, whom I referre to your wisedome to be conside<g ref="char:EOLhyphen"/>red of. To your <hi>Honours</hi> censure do I present this my trauell, and at your commandment my selfe; vowing in the action of a poore Free-man of <hi>London,</hi> to seeke the good of this famous <hi>Citty,</hi> and shew my selfe wil<g ref="char:EOLhyphen"/>ling for your <hi>Honours</hi> imploiment.</p>
+            <closer>
+               <signed>Your Honours poore well-wisher, R. I.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:177018:3"/>
+            <head>To the yong Men of <hi>London,</hi> as <hi>well Gentlemen as others.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Am perswaded, that in this De<g ref="char:EOLhyphen"/>dication, I doe salute the most part of all the yong Gentlemen of <hi>England,</hi> in that they either dwell, or haue beene in this worthy Citty of <hi>London,</hi> where they haue seene many wanton alectiues to vnthriftines, which like to inchanting Adamant rockes, drawes gold and siluer as fast as Iron and steele.</p>
+            <p>Therefore (yong men) you must bee armed with more experience then the capacity of yong yeares, or else, assure your selues, repentance will vn-loose your fetters: For truely, I cannot see, how yong men of the best education can scape vntangled, when vice is so conuersant with elder yeares. O how happy were it for your posterity, if all Dicing-houses, and allies of gaming were suppressed in, and about this Citty: From which, if you cannot bee drawne, this little booke will guide you safe, and giue you faire warnings of many of your Compa<g ref="char:EOLhyphen"/>nions falles: I beseech you bee aduised, and learne to shun these mischiefes by other mens harmes,
+<pb facs="tcp:177018:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:177018:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:177018:5"/>that the reward of this my writing may proue for<g ref="char:EOLhyphen"/>tunate, and my selfe happy to see you thriue and flourish.</p>
+            <p>I dedicate this Booke to the <hi>Honourable Magi<g ref="char:EOLhyphen"/>strate,</hi> to whom appertaineth the correction of euill liuers, your worst enemies; I meane the sucking shifters now secretly lurking in the circuits of this famous Citty, of whom his good Honour, I hope, will ease you, and make you prosperous by the re<g ref="char:EOLhyphen"/>formation. So leauing to trouble you with a tedi<g ref="char:EOLhyphen"/>ous Induction, I end at this time, but in no time will leaue to be</p>
+            <closer>
+               <signed>Your wel-wishing friend. <hi>R. I.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177018:5"/>
+            <head>A Countrey-mans Councell.</head>
+            <head type="sub">
+               <hi>Giuen to his Sonne, at his going vp to</hi> dwell at <hi>London,</hi> being a true Touch-stone for this Age, found out by Time and Experience.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">L</seg>ONDON,</hi> where thou intendest to goe (sonne <hi>William</hi>) and set vp thy liues resting place, is at this day (as thou knowest) the capitall Citty of our Coun<g ref="char:EOLhyphen"/>trey, and the Paragon of Christendome, a place of much honour and reputation, as well in respect of reuetent Gouerne<g ref="char:EOLhyphen"/>ment, as sumptuous Building and Riches: <hi>London</hi> (I say) is the strength and ornament of this wel-gouerned Land; vnto which place euery Gentleman, and almost e<g ref="char:EOLhyphen"/>uery Yeoman of ability, sendeth the ripest witted of his Children, either to studdy the common Lawes of <hi>England,</hi> or become Merchants to enrich their Countrey, wherein the loue of a father to his sonne is discharged, and the duty of a friend to his Countrey performed.</p>
+            <p>But yet take this admonition from me thy father: In this good Citty are many alectiues to vnthriftinesse, by which meanes, where the Father hath béene at charge to make his sonne a Lawyer, to doe his Countrey seruice, or a Merchant or Tradesman to become a good member to this flourishing Citty, his aforesaid sonne (for want of gouern<g ref="char:EOLhyphen"/>ment) many times spends his whole substance, to the vt<g ref="char:EOLhyphen"/>ter vndoing of his posterity, and great shame of his kin<g ref="char:EOLhyphen"/>dred. Therefore take héed my sonne, one scabbed sheepe
+<pb facs="tcp:177018:6"/>infecteth a whole flocke; and one wastfull prodigall makes a swarme of vnthrifts: of which many there be now, that liue in, and about the Citty of <hi>London,</hi> that will quickly seize vpon thee, and such fond yong men as thou art, and by their lewd conditions draw thée from study, or from thy other businesse, and bring thée acquainted with their wic<g ref="char:EOLhyphen"/>ked Conforts and Companions; and where must it be but in Ordinaries, Dicing-houses, Bowling-allies, Brothel-houses, and such like, where their brauery, reuelling, and merry company, is able to bring a staid man into their fel<g ref="char:EOLhyphen"/>lowship; but much more easter a light-headed yong man, as thou art, and such as comes vnexperienced out of the Countrey, as now thou doest.</p>
+            <p>But now being intangled in their fellowship, first pride infecteth thee with a desire to be as braue as the best; where if thou hast liuing, either in possession, or possibility, thou shalt finde swéet baits amongst them to thoake thee with<g ref="char:EOLhyphen"/>all: for many of these places aforesaid nourish most dange<g ref="char:EOLhyphen"/>rous and wicked guests, which will quickly close with the vn-experienced yong man, and of his abiltiy maintaine themselues cunningly like Gentlemen, which bee gallant shifters, cunning Pandors, and couetous Brokers.</p>
+            <p>First, the gallant shifter, like a cunning companion, in apparrell, countenance &amp; holdnesse, will checke mate with men of right good worship, when he himselfs (perhaps) in a gréene thicket by the high-way side, with a masked face, a pistoll, and a whip-cord, gets his whole inheritance.</p>
+            <p>But the manner of such cunning shifts I thinke neces<g ref="char:EOLhyphen"/>sary to conceale, lest the reports proue more hurtfull to the euill inclined, then the admonition profitable to the well-disposed: But this I assure thée of, (as many a Gentle<g ref="char:EOLhyphen"/>mans vndoing witnesseth) that these expert shifters, by false dice, slippery casting, and other like slights, dally with yong nouisses so long, till they make their Purses a poore penylesse banquet.</p>
+            <p>And (my sonne) bee thou thus conceited, that the man
+<pb facs="tcp:177018:6"/>that is enticed to bee a Dicer, of his owne accord will be<g ref="char:EOLhyphen"/>come a Whore-maister, where a few of ordinary dinners in that kinde, will waste a great deale of his substance.</p>
+            <p>But some will say, the want of acquaintance will kéeps him chaste: but I conclude with the Prouerbe: <hi>Mony will hire a guide to goe to the Diuell.</hi> And surely at such ordi<g ref="char:EOLhyphen"/>nary méetings as be in Bowling-allies, and Dicing-hou<g ref="char:EOLhyphen"/>ses, a man may finde many of these neat Pandors, such as onely liue vpon Brokage of loue, fellowes that will pro<g ref="char:EOLhyphen"/>cure a womans acquaintance for a dumbe man; these bee no bashfull companions, but such as glory in their base fa<g ref="char:EOLhyphen"/>culty, their common talke will bee of ribaldry, and matter of like purpose. And to conclude, hee will take aduantage of time and place, and cunningly blow a meeting of faire women into my yong maisters eares, and then his compa<g ref="char:EOLhyphen"/>ny needeth not to bee requested: for presently desire ma<g ref="char:EOLhyphen"/>keth him mad for their méeting. Where? hee cryes, come let vs goe; and so, with more haste then good speede, hies to some blinde Brothell-house about the <hi>Sub-vrbs,</hi> or skirts of the Citty, where (peraduenture) for a Pottle or two of wine, the embracement of a painted strumpet, and the French welcome for a reckoning, the yong nouice pay<g ref="char:EOLhyphen"/>ethforty shillings, or better.</p>
+            <p>Yet for all this, my braue <hi>Shifter</hi> hath a more costly rec<g ref="char:EOLhyphen"/>koning to giue him, for being thus growne into acquain<g ref="char:EOLhyphen"/>tance, hee will in a familiar kinde of curtesie, accompany him vp and downe the Citty, and in the end will come vn<g ref="char:EOLhyphen"/>to a Mercers or Gold-smiths Shoppe, of whom the yong Gentleman is well knowne, there will he cheapen Veluet, Satten, Iewels, or what him liketh, and offer his new friends credit for the payment, he will with so bold a coun<g ref="char:EOLhyphen"/>tenance aske this friendship, that the Gentleman shall bee to séeke of excuse to deny him: Well, although the peuy<g ref="char:EOLhyphen"/>worths of the one bee not very good, yet the payment of the other is sure to bee currant.</p>
+            <p>Thus by prodigall ryots, vaine company, and rash
+<pb facs="tcp:177018:7"/>suretiship, many of our <hi>English</hi> yong Gentlemen, <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> learned to say
+<q>
+                  <l>
+                     <hi>I wealthy was of late,</hi>
+                  </l>
+                  <l>
+                     <hi>Though needy now be;</hi>
+                  </l>
+                  <l>
+                     <hi>Three things haue chang'd my state,</hi>
+                  </l>
+                  <l>
+                     <hi>Dice, Wine, and Venerie.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>But to our purpose. The delights of these Tabling-houses are so pleasant and tempting, that a man when hee hath there lost all his money, will be most willing, euen in the place of his vndoing, to stand money-lesse, and bee an Idle looker on, of other mens vnthristinesse.</p>
+            <p>After all this, there seizeth vpon the néedy Gentleman thus consumed, another <hi>Deuouring Caterpiller,</hi> which is the <hi>Broker</hi> for money: one that is either an old Banker-out Citizen, or some smooth-conditioned vnthrifty Gen<g ref="char:EOLhyphen"/>tleman farre in debt, some one of these will helpe him to credit with some of their late Creditors, with a single pro<g ref="char:EOLhyphen"/>testation of meere curtesie. But by your fauour, they will herein deale most cunningly: For the Citizen <hi>Broker,</hi> (af<g ref="char:EOLhyphen"/>ter money taken out for his paines, consideration for the time giuen, and losse in selling of the wares put together) will bring the yong Gentleman fifty pounds currant mo<g ref="char:EOLhyphen"/>ney for a hundred pounds good debt.</p>
+            <p>Mary the Gentleman broker will deale more gallanter, for he will be bound with his fellow Gentleman for a hun<g ref="char:EOLhyphen"/>dred pound, sharing the money equally betweene them, not without solemns promise to discharge his owne fifty, and if need be, the whole hundred pounds assurance.</p>
+            <p>But let all these mischiefes goe: Here is want supplled, which breakes brazen walles, &amp; money receiued, which be<g ref="char:EOLhyphen"/>trayeth kingdoms, &amp; for the same, nothing but Inke, War and Parchment deliuered, which is a merry exchange, if a man should be alwayes thus busied in receiuing, and neuer finde leasure for the repaiment.</p>
+            <pb facs="tcp:177018:7"/>
+            <p> But oh thou vn-happy yong Gentleman, whatsoeuer thou be, that art thus matched, heere must I breathe a<g ref="char:EOLhyphen"/>while, and admonish thee with a few notes of my councell of experience: for I know thy couetous desire of money is such, and so great, that thou hadst rather become debter for forty pounds, then to spare forty shillings out of thy Purse: therefore take this Lesson from a tongus of expe<g ref="char:EOLhyphen"/>rience. Thou wert better giue one of these Fellowes ten pound, then to bee bound for fifteene, for what so remai<g ref="char:EOLhyphen"/>neth thou sauest, when all that thou vantrest, thou loosest: And be thou assure, though thou wilt finde he time to satis<g ref="char:EOLhyphen"/>fie thy couenant, yet will thy Creditor worke thee an Ar<g ref="char:EOLhyphen"/>rest, which (vntill hee bee fully contented and payd) will giue them little ease, and lesse liberty. But I feare me, all in vaine doe I giue this Councell to a Prodigall, that is tied to couetousnesse with siluer linkes, for <hi>Prodigality</hi> and <hi>Couetousnesse</hi> chained together, are two extreme Passi<g ref="char:EOLhyphen"/>ons, &amp; so violent, that no Physicke can cure, but Beggary &amp; Death: Beggary is the end of Prodigality, &amp; Death the end of Couetousnesse: yet in my minde of them both the couetous man is the worser: for with his riches he doth no man good, no not so much as himselfe, when the Prodi<g ref="char:EOLhyphen"/>gall by the vndoing of himselfe enricheth many: therefore the best that may be said of the prodigall, concludeth an vn<g ref="char:EOLhyphen"/>doing of himselfe and his posterity.</p>
+            <p>I haue read in the Workes of a famous Phylosopher, which saith, The Prodigall man neuer obserueth time, be<g ref="char:EOLhyphen"/>ginning nor end, vntill ryot hath consumed him and his pa<g ref="char:EOLhyphen"/>trimony. And where is it consumed, but in Ordinaries, Dicing-houses, Bowling-allies, and such like assemblies, which if they were suppressed, many a mans land would be kept from selling, many a mans necke from the halter, and the Common-wealth (perhaps) from further mischiefes. And from my heart I wish, that vpon the gate or dore of euery Tabling-house, and Bowling-alley, might bee set a <hi>Whip and a Halter</hi> for a singe, then surely all vnthrifts and
+<pb facs="tcp:177018:8"/>their associates would be ashamed to come to those places, vnlesse shame had vtterly forsooke them.</p>
+            <p>I haue but yet begun to anatomize the head of these Sanctuaries of Iniquity, there are heapes and whole bo<g ref="char:EOLhyphen"/>dies of euils follow: The deceite of Dice, the charge of Strumpets, the sleight of Consenage, and the cunning of Brokage, is all that I haue yet layd vpon our wilde-headed yong Gentlemen, which (like Carrions) onely prey vpon Gold, Siluer, and such like Carriage, these bee but sucking Flyes, the biting Scorpions come af<g ref="char:EOLhyphen"/>ter; euen as a Bird that hath but one feather limed, by striuing fettereth her whole body: So the vnfortunate yong Gentleman, which is brought behinde hand by the hazard of Dice, through a vaine hope to redeeme him<g ref="char:EOLhyphen"/>selfe, followeth his mischiefe, to the spending of the last payment of all his Estate; and thou (to helpe him forward) some one Spy of the Lawe, or other: namely, a Petty-sogger (the reuerence done vnto the Laws, and good Lawyers reuerenced) is euermore sneaking into the Company of rich Heires, and still keepes an Alpha<g ref="char:EOLhyphen"/>bet of all such Gentlemens names that frequenteth these common Gaming-houses; his eyes are setled vp<g ref="char:EOLhyphen"/>on their Dispositions, and his exercise is daily to search the Rolles, and the Office of the Statutes, to learne what Recognizances, Morgages, and Statutes do charge their lands.</p>
+            <p>This is the pernitious <hi>Broker,</hi> the other helped the née<g ref="char:EOLhyphen"/>dy Gentleman to money, at fifty in the hundred losse, but hee helpeth him to sell land at fiue yeares purchase.</p>
+            <p>I must heere digresse from the Prodigality of the Gen<g ref="char:EOLhyphen"/>tleman, vnto the Couetousnesse and Vsury (I cannot well say) of the Citizen, although he dwelleth in the Citty, for the true Cittizen, (whereof <hi>London</hi> hath plenty) liueth vpon his Calling, bee hee a Merchant, venturing abroad, or Trades-man liuing at home: But these <hi>Shames</hi> of good Cittizens, I meane such as tradeth but only to a <hi>Gaming-house,</hi>
+               <pb facs="tcp:177018:8"/>or at the furthest, trauelleth but to a <hi>Bowling-alley,</hi> a <hi>Horse-rifling,</hi> the meeting of Gentlemen at an <hi>Ordina<g ref="char:EOLhyphen"/>ry,</hi> and such like.</p>
+            <p>There with ease and safety doe these fellowes gather wealth and riches as fast as the good Cittizen with much hazard, and farre trauels.</p>
+            <p>These <hi>Caterpillers</hi> come not thither to play the vn<g ref="char:EOLhyphen"/>thrifts, but to prey vpon vn-thrifts, and yet for compa<g ref="char:EOLhyphen"/>ny, and to auoyde suspition, they will sometimes play the Good-fellowes, and now and then sport a pound or two.</p>
+            <p>These men néed not too greedily seeke for purchases, for the necessity of decaying Gentlemen, and yong Cittizens, will make them faire offers, and their Spyes (as I sayd before) will giue them knowledge where there is sound dealing.</p>
+            <p>Now amongst these fellowes, there is such deceite co<g ref="char:EOLhyphen"/>loured with cleanly shifts, as many gentlemen are for a tri<g ref="char:EOLhyphen"/>fle shifted out of their liuings without hope of recouery for it is well knowne, that the extremity and hard dealing of such men, hath impressed a naturall mallice in the hearts of Gentlemen against Cittizens, in so much that if a Gentleman purpose to scoffe a Cittizen, hee will call him, <hi>A trimme Merchant.</hi> Likewise the Cittizen scoffing the Gentleman, will call euery common fellow, <hi>A Iolly Gen<g ref="char:EOLhyphen"/>tleman.</hi>
+            </p>
+            <p>Truly, truly, in my minde, this mortal enuy betwéene these two worthy Estates, was first begotten by the cruell vsage of couetous Merchants in former ages, by hard bargaines gotten of Gentlemen; and still neurished as re<g ref="char:EOLhyphen"/>uenges taken of both parties.</p>
+            <p>Thus one mischiefe drawes on another, and in my opi<g ref="char:EOLhyphen"/>nion gaming houses are the chiefe Fountaines thereof: which wicked places first nourisheth our yong men of <hi>England</hi> in pride, then acquainteth them with sundry shif<g ref="char:EOLhyphen"/>ting companions, whereof one sort cozeneth them at dice
+<pb facs="tcp:177018:9"/>and cardes, another sort consume them with riotous mee<g ref="char:EOLhyphen"/>tings, another sort by Brokage bringeth them in debt, and out of credite, and then awaiteth Couetousnesse and V<g ref="char:EOLhyphen"/>sury to sease vpon their liuings, and the officious Sergiant vpon their liberties: and all this (as I said before) princi<g ref="char:EOLhyphen"/>pally proceeds by the frequenting of gaining houses.</p>
+            <p>But let vs now search deeper into these wounds of a Common-wealth, for if wée consider all things aright, there is more fouler matter behind, and such things as makes my heart bléed to thinke of; wée haue but yet spoken of those gaming houses, which are chiefly for the inter<g ref="char:EOLhyphen"/>tainement of <hi>Courtiers</hi> and <hi>Gentlemen,</hi> the others bée of a more prinate standing, which be called Common-houses, where the vulgar and inferiour sort of people resort, such as haue poore wiues and children, and Families to care for, surely, the inconuenience cannot chuse but bee great, when a poore man leaueth his house, and the company of his wife and family, and dineth abroad amongst Gaime<g ref="char:EOLhyphen"/>sters, whose wits bee still labouring which way to deceiue him.</p>
+            <p>This order me thinkes is a bad order, and a breach of credite, to sée a Trades-man, or one that gets his liuing by the sweate of his browes, to eate and drinke abroad; vn<g ref="char:EOLhyphen"/>lesse one neighbour inuite another, but sufferance hath brought this disorder to such a custome, that it is now made a daily practise amongsts our poorer sort of Cittizens. Marry, the Maisters of these gaining houses want no Guests, for where Carion is, Crowes will be plenty, and where mony is stirring Cheaters will not be idle.</p>
+            <p>Yong <hi>Cittizenes,</hi> for the most part, depend vpon their Credite, and therefore are loath that there should be an open knowledge of their vnthristinesse: all the better (I say) for the biting Cheater, for close in a chamber one of these <hi>Cogging Knaues</hi> getteth more money in an howre, then many an <hi>Honest Man</hi> spendeth in one yeare.</p>
+            <p>But aboue others, this one thing is much to be lamen<g ref="char:EOLhyphen"/>ted,
+<pb facs="tcp:177018:9"/>by this <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> delight, <gap reason="illegible" resp="#uom" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Cittizens consunne other mens goods, who (perhaps) laboured painefully to get them, when Gentlemen, although that they vndoe their posterity, spend but their owne goods and lands.</p>
+            <p>The eares of the <hi>Magistrates</hi> are daily full of the brea<g ref="char:EOLhyphen"/>king of <hi>Yong Marchants,</hi> and here I lay before their eyes, the causes thereof; euen these wicked meeting places, they bée places vnto which <hi>Magistrates</hi> come not, and there<g ref="char:EOLhyphen"/>fore the abuses vnknowns vnto them, but I thinke it a worke of much honesty to reueale them, and in the <hi>Ma<g ref="char:EOLhyphen"/>gistrate</hi> a worke of more iustice to reforme them, and al<g ref="char:EOLhyphen"/>though this be true that I write, and the euils more then I will speake of, yet I finde my conscience frye from their shifts, as I presume that no man, (as saulty) will or can reprehend <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for those kind of courses, and to kéepe my selfe more cléere from them, I will passe by these stréetes, where these one houses are planted, and blesse mee from the iuticements of them, which indeed are many and more dangerous, in that they please with a vaine hope of gaine.</p>
+            <p>There now comes into my mind, a pretty saying of a distemperate Direr, which solemnly <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> sweare, that he be<g ref="char:EOLhyphen"/>léeued, that Dice were first made of the bones of a <hi>Witch,</hi> and Cardes of her skin, in which there hath euer since re<g ref="char:EOLhyphen"/>mained a kinde of Inchantment, that whosoeuer once ta<g ref="char:EOLhyphen"/>keth delight in either, shall neuer haue power vtterly to leaue them: for, quoth hee, a hundred times haue I vowd to leaue both, yet haue I not the grace to forsake either: But now againe to the possibility of Reformation to ouer<g ref="char:EOLhyphen"/>come this inticing mischiefe.</p>
+            <p>If the <hi>Magistrates</hi> surnai'd but these vile houses by ho<g ref="char:EOLhyphen"/>nest Conseruators, you should finde the painefull trauels of Capitall <hi>Magistrates</hi> much eased, many mens liues shall bée saued, Gentlemen haue more land, and Cittizens grea<g ref="char:EOLhyphen"/>ter store of money, which mettle is the greatest strength of a Citty, for where money is not scarce, Trafficke is
+<pb facs="tcp:177018:10"/>plenty, which supporteth all Citties: but to my purpose, these deuilish houses are causes, that Marchants haue so much land, and Gentlemen so little gouernement.</p>
+            <p>I haue alredy showne, to what exetremity the better sort of these houses bring a number of our florishing yong Gentlemen; to what misery the second sort, (called Ordi<g ref="char:EOLhyphen"/>naries for Cittizens) bring a great number of yong Mar<g ref="char:EOLhyphen"/>chants.</p>
+            <p>Now remaineth the discouery of the third sort of these haunts, which are placed in the Sub-vrbs of the Citty, in Allies, Gardanes, and other obscure corners, out of the common walkes of the Magistrates. The daily Guestes of these priuy houses, are maister-lesse men, néedy Shif<g ref="char:EOLhyphen"/>ters, Théeues, Cut-purses, vnthrifty seruants, both Ser<g ref="char:EOLhyphen"/>uing-men and Prentises: Here a man may picke out mates for all purposes saue such as are good: Here a man may find out fellowes, that for a pottle of wine, will make no more conscience to kill a man, then a Butcher a beast: Here closely lie Saint <hi>Nicholas Clearkes,</hi> that with a good Northerne Gelding, will gaine more by a Halter, then an honest Yeoman will with a teame of good horses: Here are they that will not let to deceiue their father, to rob their brother, and fire their neighbours house for an aduantage. These braue Companions will not sticke to spend frankly though they haue neither lands nor goods by the dead, nor honesty by nature: But how will this hold out? Fire will consume wood without maintenance, and Ryor make a weake pursse without supply.</p>
+            <p>Gentlemen (for the most part) haue lands to make mo<g ref="char:EOLhyphen"/>ney, and the yong Cittizens way to get credite; but these idle fellowes haue neither lands nor credite, nor will liue by any honest meanes or Occupation: yet haue they hands to filtch, heads to deceiue, and friends to receiue, and by these helpes, most commonly, shift they badly well.</p>
+            <p>The other vpon currant assurance, perhaps, get money for twenty Markes, or twenty pounds in the hundred, but
+<pb facs="tcp:177018:10"/>these that worst may hold the Candle; they vpon their owne, or vpon their Maisters Apparell, Brasse, Pewter, Linnen, Wollen, or such like, will find <hi>Brokers</hi> or <hi>Fripe<g ref="char:EOLhyphen"/>rers,</hi> that for eight pence in the pound for euery monthes vse, will boldly for halfe the valew take these pawnes.</p>
+            <p>Surely, it séemeth that this famous Citty is fore char<g ref="char:EOLhyphen"/>ged with these <hi>Make-shiftes,</hi> considering that so many Stréetes and Laines are filler with these netty Brokers, or <hi>Cherish-theeues,</hi> I pray God that in the principall pla<g ref="char:EOLhyphen"/>ces and Stréets of the Citty there bée not of this Faculty, that will make fifty or thrée-score pound profite in the hun<g ref="char:EOLhyphen"/>dred, which is swéete gaine: I haue heard some say, that a double pawne taketh away the feare of the Statute, which is a Iewish Vsury, and high time to bee rooted out of our Christian Gouernment.</p>
+            <p>Some of these kind of couetous Vserers, are so hard-hearted that I doubt they neither feare God, nor reuerence man, neither will they pardon father, nor acknowledge mother, but will make marchandise of their owne children, they will neither regard brother or kindred, nor yet kéepe faith with their friends; but beare false witnesse, offend the Widdow, and oppresse the Orphant, oh how great is this folly of theirs, to loose life, to seeke death, and to ba<g ref="char:EOLhyphen"/>nish themselues from heauen eternally.</p>
+            <p>I haue heard some of that profession say, that Vsury (I meane Brokage) is turn'd from a sin to an Occupation, be<g ref="char:EOLhyphen"/>cause being estéemed as a Trade, they would be accounted honest men, but rather in my minde they bée termed Théeues, for the Broker agréeeth before, with the Bor<g ref="char:EOLhyphen"/>rower, to receiue more then was borrowed, because before hee steale, hee tels the party how much hée will steale, as though hée stole by law; nay, I may say without law, for like a mistery these Brokers haue deuised more sorts of lending vpon pawnes then there bée trickes at Cardes, but I am affraid to shew you them, lest I should teach you to bée of that kind; but yet some few examples will I héece
+<pb facs="tcp:177018:11"/>venture on, as hereafter followeth, the parties I do know now resident in <hi>London.</hi>
+            </p>
+            <p>I know a <hi>Broker</hi> that will take no Interest for his mo<g ref="char:EOLhyphen"/>ney, but will haue the Lease of your house, or your land, in vse, receiuing rent for the same till you pay your principall againe, which will come to a greater gaine then thrée-score in the hundred.</p>
+            <p>I know another that will take no interest money, but will haue Pewter, Brasse, Shéetes, Plate, Table-clothes, Napkins, and such like things, to vse in his house, till his money come home, which will loose more in the wearing then the Interest of the money will come to.</p>
+            <p>I know another that will take a pawne twice worth the money that hée lends, and agrée with the Borrower to re<g ref="char:EOLhyphen"/>déeme it at a day, or loose it, by which meanes the poore bor<g ref="char:EOLhyphen"/>rower is forced sometimes for want of money to loose his pawne for halfe the valew.</p>
+            <p>I knew another that will not lend, but buy at small pri<g ref="char:EOLhyphen"/>ces, and couenant with the borrower to buy the same againe, at such a price, at such a day, or loose it this is a fel<g ref="char:EOLhyphen"/>low that séekes to cozen the Law, but let him take héed least the deuill his good maister to <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nothing, and at the last carry him post into hell.</p>
+            <p>I know another that will land out his money to men of Occupations, as to Butchers, Bakers, and such like, vpon condition to bée partners in their gaines but not in their losses, by which meanes, hée that takes <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and dentures all, is forced to giue the Broker halfe the profits for his money.</p>
+            <p>I know another, for his money lending to a Carpenter, a Bricke-layer, or a Plaisterer, will agrée with them for so many daies worke, or so many wéekes, for the loane of his money, which if all reckonings bée cast will come to a deere interest.</p>
+            <p>I know many about this Citty that will not bee seene to be Brokers themselues, but suffer their wines to deale
+<pb facs="tcp:177018:11"/>with their money, as to lend a shilling for a peny a weeke to Fish-wiues, Differ-women, Dringe-wenches and suth like: these be they that looke about the Citty like Rats and Weasels, to gnaw poore people aliue, and yet go in<g ref="char:EOLhyphen"/>uisible.</p>
+            <p>This if it be well considered of is a Iewish Brokage, for in deed the Iewes first brought vsury &amp; brokage into <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> which now by long sufferance haue much blemished the ancient vertues of this Kingdome: let vs but remem<g ref="char:EOLhyphen"/>ber this one example, how that in the time of King <hi>Henry</hi> the third, the good Cittizens of <hi>London,</hi> in one night slew fiue hundred <hi>Iewes,</hi> for that a <hi>Iew</hi> tooke of a <hi>Christian</hi> a penny in the shilling Vsury, and euer after got them bani<g ref="char:EOLhyphen"/>shed the Citty; but truely these <hi>Brokers</hi> afore-said deserue worse then <hi>Iewes,</hi> for the <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> like vnto Strumpets, for they receiue all mens money, as well the Beggars as the Gentlemans; nay, they will themselues take money vpon Brokage, to bring their Trade into a better custome, which in my minde is a wicked custome to liue onely by sinne.</p>
+            <p>The good <hi>Magistrates</hi> I hope will ouer-looke these euils, least these euils ouer-rule their posterity, but especially these Tabling houses, wherein so many hundred Shifters maintaine themselues gallantly, to the vndoing of a num<g ref="char:EOLhyphen"/>ber of good Gentlemen, Cittizens, Trades-men and such like; for if the <gap reason="illegible" resp="#uom" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in <gap reason="illegible" resp="#uom" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> leuel of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> were truely <gap reason="illegible" resp="#uom" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay they would amaze a good <gap reason="illegible" resp="#uom" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> were dis<g ref="char:EOLhyphen"/>couered, and then no <gap reason="illegible" resp="#uom" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> find their faults, or Repentance shew their amendment.</p>
+            <p>To conclude, it is euery mans case in this land that hath care of his Posterity, to be suitors for reformation, the euill hereof euen perisheth the marrow and strength of this happy Realme, I meane the ability of the Gentry is much weakened, and many good Cittizens almost wasted by haunting of these vngracious houses: if this my disco<g ref="char:EOLhyphen"/>uery
+<pb facs="tcp:177018:12"/>bee considered of by wisedome, I presume it will prous beneficiall to this glorious Monument of the Land, <hi>London</hi> I meane, which the Lord blesse and keepe in this her wonted pros<g ref="char:EOLhyphen"/>perity, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:177018:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
